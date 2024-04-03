@@ -1,0 +1,5 @@
+Next, coding is more creative and abstract than most non-technical people think it is. For example, say two devs are working on different pieces of code. These two pieces of code should work together. But sometimes one piece of code can make the other code fail. Or a piece of code can have an unexpected impact on how the other code works.
+
+GitHub solves these problems by showing how both files will change the main branch. It catches these errors before pushing changes, making the coding process more efficient.
+
+GitHub also makes it easier to track changes and go back to previous versions of a project. To explain this, we’ll need to understand the technology that GitHub is based on, Git, and talk about version control.
